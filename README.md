@@ -1,3 +1,5 @@
+I used chatGPT, and had help from the instructor Theo for part of my code.  Additionally, I used the PyCity_starter report format to complete my code. 
+
 # pandas-challenge
 DISTRICT SUMMARY
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
